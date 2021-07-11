@@ -11,8 +11,8 @@ UMS_CRUD_App
 >### Then run to the terminal ->
     npm install
    
-   >### To install dependencies ->
-    npm i express morgan nodemon ejs body-parser dotenv mongoose axios 
+<!--    >### To install dependencies ->
+    npm i express morgan nodemon ejs body-parser dotenv mongoose axios  -->
 >### To start the server and run the application ->
     npm start
 
